@@ -1,5 +1,7 @@
 'use strict';
 
+//https://www.hackerrank.com/challenges/the-birthday-bar/problem
+
 let si = [4];
 let di = 4;
 let mi = 1;
